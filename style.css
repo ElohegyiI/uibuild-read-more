@@ -1,0 +1,21 @@
+ody {
+  background-color: #EFD592;
+}
+button {
+
+width: 240px;
+height: 50px;
+text-align: center;
+letter-spacing: 0.2em;
+font-weight: bolder;
+font-family: 'Poppins', sans-serif;
+background-color: #EFD592;
+border: 4px solid #242D38;
+line-height: 0;
+}
+section {
+  height:  100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
